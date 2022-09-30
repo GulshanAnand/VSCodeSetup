@@ -1,5 +1,5 @@
 # VSCodeSetup
-1. Install Git in your PC.
+1. Install Git on your PC.
 2. Download Zip file of this repository.
 3. Copy the CP folder(you can rename it as well) to a desired loctaion where you want your code files to be saved.
 4. Right Click on CP folder and select "Open with Code" option.
